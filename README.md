@@ -4,8 +4,8 @@ I'm a software engineer. I consider myself a full-stack developer, I usually wor
 
 [Linkedin ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sebiglesias)
 
-:argentina:[Curriculum vitae](https://sebiglesias.github.io/assets/es/cv.pdf)
+:argentina:[Curriculum en Español](https://sebiglesias.github.io/assets/es/cv.pdf)
 
-:england:[Curriculum vitae](https://sebiglesias.github.io/assets/en/cv.pdf)
+:england:[Curriculum in English](https://sebiglesias.github.io/assets/en/cv.pdf)
 
 [Github Pages Site](https://sebiglesias.github.io/)
