@@ -1,11 +1,11 @@
 # Hi! I'm Sebastián Iglesias
 
-I'm a software engineer. I consider myself a full-stack developer, I usually work in web development and backend services. I'm also interested in machine learning. You can check my Linkedin or Github to know more.
+I'm Sebastián Alejo Iglesias, a software engineer and teacher based in Argentina, who speaks English and Spanish. I've been working in the tech industry for over 8 years, and I've had the opportunity to work for both big tech companies and startups. I'm a full stack engineer, and I'm proficient in a variety of languages and technologies, including Java, Scala, Typescript, and React. I'm passionate about building innovative and user-friendly software. I'm also a lifelong learner, and I'm always eager to learn new things. In my free time, I enjoy testing machine learning tools, 3D printing, ham radio, hydroponics, soccer, gaming, and traveling. My goal is to be happy with myself and with my work. I hope to one day start my own company, but I'm unsure as to what that company will do. For now, I'm focused on learning and growing as a software engineer.
 
-[Linkedin ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sebiglesias)
+[Linkedin](https://www.linkedin.com/in/sebiglesias)
 
-:argentina:[Curriculum en Español](https://sebiglesias.github.io/assets/es/cv.pdf)
+[Curriculum en Español](https://sebiglesias.github.io/assets/es/cv.pdf)
 
-:england:[Curriculum in English](https://sebiglesias.github.io/assets/en/cv.pdf)
+[Curriculum in English](https://sebiglesias.github.io/assets/en/cv.pdf)
 
 [Github Pages Site](https://sebiglesias.github.io/)
