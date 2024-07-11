@@ -8,4 +8,4 @@ I'm Sebastián Alejo Iglesias, a software engineer and teacher based in Argentin
 
 [Curriculum in English](https://sebiglesias.github.io/assets/en/cv.pdf)
 
-[Github Pages Site](https://sebiglesias.github.io/)
+[Personal Site](https://sebiglesias.github.io/)
