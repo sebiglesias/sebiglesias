@@ -6,6 +6,6 @@ I'm Sebastián Alejo Iglesias, a software engineer and teacher based in Argentin
 
 [Curriculum en Español](https://sebiglesias.github.io/assets/es/cv.pdf)
 
-[Curriculum in English](https://sebiglesias.github.io/assets/en/cv.pdf)
+[Resume in English](https://sebiglesias.github.io/assets/en/cv.pdf)
 
 [Personal Site](https://sebiglesias.github.io/)
